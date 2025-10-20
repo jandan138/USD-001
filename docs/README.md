@@ -11,7 +11,8 @@
 7. [Module 6: Traversing a Stage](./06-traversing-a-stage/README.md)
 8. [Module 7: Root Layer Authorship](./07-root-layer-authorship/README.md)
 9. [Module 8: Exporting an MDL Material](./08-exporting-mdl-material/README.md)
-10. [Conclusion](./99-conclusion/README.md)
+10. [Module 9: Binding Materials to Geometry](./09-binding-materials/README.md)
+11. [Conclusion](./99-conclusion/README.md)
 
 补充约定：
 - 各模块可放置图片到 `../assets/`，示例代码放在各自 `examples/` 目录。
